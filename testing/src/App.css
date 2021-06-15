@@ -1,0 +1,51 @@
+*{
+  font-family: 'Rubik';
+}
+.App {
+  text-align: center;
+  min-width: calc (320px+10vmax);
+  height: auto;
+}
+.button{
+  width: 126px;
+  height: 49px;
+  font-family: 'rubik';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 10px 0px;
+  background: #1D6861;
+}
+.section-1{
+  width: auto;
+  height: auto;
+  flex-direction: row;
+}
+.heading-title{
+  font-family: 'rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 164%;
+  letter-spacing: 1px;
+  color: #414141;
+}
+.heading-sub-title{
+  font-family: 'rubik';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 164%;
+  letter-spacing: 0.5px;
+  color: #A5A5A5;
+}
+.image{
+  width: 706px;
+  height: 720px;
+}
